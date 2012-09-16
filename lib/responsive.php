@@ -8,6 +8,16 @@
  */
 
 /**
+ * Enqueue iOS bug fix
+ *
+ * @since 1.5.0
+ */
+function ja_responsive_js() {
+	wp_enqueue_script( 'ios', CHILD_URL . '/lib/js/ios.js' );
+}
+add_action( 'wp_enqueue_scripts', 'ja_responsive_js' );
+
+/**
  * Set viewport for responsiveness
  *
  * @since 1.5.0
