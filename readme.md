@@ -7,11 +7,16 @@
 
 ###Description
 
+**Please Note:**  A new theme is being developed jointly by myself and Bill Erickson and may be released publically in the future at some point. This theme will continue to work, but does not support Genesis 2 HTML5.
+
 This is my personal "starter" theme (base theme) I use when working with a project running the Genesis Framework. Feel free to use it as you see fit. Obviously, it requires the [Genesis Framework](http:www.jaredatchison.com/go/genesis/). Suggestions and forks encouraged.
 
 You may also want to check out Bill Erickson's starter Genesis [child theme](https://github.com/billerickson/BE-Genesis-Child) which is very similar.
 
 ###CHANGE LOG
+
+####v2.0
+- Major overhaul
 
 ####v1.5
 - Changed the `cleanup.php` to `genesis-cleanup.php` and tweaked functions
