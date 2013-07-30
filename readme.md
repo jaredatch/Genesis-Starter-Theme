@@ -1,7 +1,7 @@
 #Starter Genesis Child Theme
 
 **Author**: [Jared Atchison](http://www.jaredatchison.com) ([@jaredatch](http://www.twitter.com/jaredatch))   
-**Version**: 1.5  
+**Version**: 2.0  
 **Requires at least:** [WordPress 3.4](http://wordpress.org) and [Genesis 1.8](http://www.jaredatchison.com/go/genesis/)  
 **License**: GPLv2
 
@@ -16,7 +16,7 @@ You may also want to check out Bill Erickson's starter Genesis [child theme](htt
 ###CHANGE LOG
 
 ####v2.0
-- Major overhaul
+- Major overhaul. Thsi is the last version to support Genesis < 2.0.
 
 ####v1.5
 - Changed the `cleanup.php` to `genesis-cleanup.php` and tweaked functions
